@@ -2,6 +2,8 @@
 
 Welcome to my GitHub Profile!
 
+My name is Nick, I'm a Software Engineer specializing in QA and DevOps, passionate about Web and Cloud technologies.
+
 ## 💼 Technical Skills
 
 ### Programming Languages
